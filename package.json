@@ -1,0 +1,18 @@
+{
+  "name": "qr",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "html5-qrcode": "^2.3.8",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.1.0"
+  }
+}
